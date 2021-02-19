@@ -50,7 +50,7 @@ header nav a:hover{
     
 }
 .filme-principal .descricao{
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 30px;
 }
 .titulo{
@@ -76,4 +76,16 @@ header nav a:hover{
 }
 .botao i{
     margin-right: 5px;
+}
+.filme-principal .container{
+    margin: 60px;
+    width: 60%;
+}
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.carrosel-filmes{
+    margin-top: 5px;
 }
